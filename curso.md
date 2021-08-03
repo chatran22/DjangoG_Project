@@ -1,4 +1,0 @@
-Modelo
-URL
-Vista
-Plantilla
