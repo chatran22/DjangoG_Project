@@ -125,7 +125,7 @@ STATIC_ROOT = BASE_DIR / '/static'
 # STATIC_ROOT = BASE_DIR.joinpath('static')
 
 STATICFILES_DIRS = [
-    BASE_DIR / '/blog/static',
+    BASE_DIR / '/blog/static/css',
     # '/blog/static',
 ]
 
